@@ -13,6 +13,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("rtr")
         print("fdfdf")
+        print("Main 1")
+        print("Main 2")
+        print("Main 3")
         // Do any additional setup after loading the view.
     }
 
